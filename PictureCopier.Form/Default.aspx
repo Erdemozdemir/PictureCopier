@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PictureCopier.Form._Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="PictureCopier.Default" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
@@ -28,6 +28,7 @@
                 <asp:TextBox runat="server" ID="txtTimeToSleep" CssClass="form-control" Text="10" />
                 <small class="form-text text-muted">Default value is 10 second. You can change according to your internet speed. </small>
                 <asp:RegularExpressionValidator runat="server" ValidationExpression="^[0-9]*$" ControlToValidate="txtTimeToSleep" CssClass="text-danger" ErrorMessage="Time is not valid" />
+                <asp:RequiredFieldValidator runat="server" ControlToValidate="txtTimeToSleep" CssClass="text-danger" ErrorMessage="Time is not valid"/>
             </div>
 
             <asp:Button runat="server" Text="Download Files" ID="btnDownloadFile" OnClick="btnDownloadFile_OnClick" CssClass="btn btn-primary" />

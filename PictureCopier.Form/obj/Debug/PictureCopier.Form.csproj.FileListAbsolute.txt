@@ -1,8 +1,8 @@
-C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.Form.dll.config
-C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.Form.dll
-C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.Form.pdb
 C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\WebDriver.dll
 C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\WebDriver.xml
 C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\obj\Debug\PictureCopier.Form.csprojResolveAssemblyReference.cache
-C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\obj\Debug\PictureCopier.Form.dll
-C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\obj\Debug\PictureCopier.Form.pdb
+C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.dll.config
+C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.dll
+C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\bin\PictureCopier.pdb
+C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\obj\Debug\PictureCopier.dll
+C:\Users\erdem\Documents\Visual Studio 2013\Projects\PictureCopier\PictureCopier.Form\obj\Debug\PictureCopier.pdb

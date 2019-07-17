@@ -1,8 +1,0 @@
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\bin\Debug\PictureCopier.exe.config
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\bin\Debug\PictureCopier.exe
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\bin\Debug\PictureCopier.pdb
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\bin\Debug\WebDriver.dll
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\bin\Debug\WebDriver.xml
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\obj\Debug\PictureCopier.csprojResolveAssemblyReference.cache
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\obj\Debug\PictureCopier.exe
-c:\users\erdem\documents\visual studio 2013\Projects\PictureCopier\PictureCopier\obj\Debug\PictureCopier.pdb

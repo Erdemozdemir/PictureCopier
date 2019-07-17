@@ -1,4 +1,4 @@
-﻿namespace PictureCopier.Form.Helpers
+﻿namespace PictureCopier.Helpers
 {
     public static class StringExtensions
     {

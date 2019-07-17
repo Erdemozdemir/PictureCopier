@@ -6,11 +6,11 @@ using System.Web.UI;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using System.IO;
-using PictureCopier.Form.Helpers;
+using PictureCopier.Helpers;
 
-namespace PictureCopier.Form
+namespace PictureCopier
 {
-    public partial class _Default : Page
+    public partial class Default : Page
     {
         private const string UriTemplate = "{0}://{1}{2}";
         private const string SavePathTemplate = "{0}\\{1}";
@@ -30,7 +30,6 @@ namespace PictureCopier.Form
             var url = txtUrl.Text;
             driver.Url = url;
 
-            driver.Manage().Window.Minimize();
             //To maximize the window. 	
             driver.Manage().Window.Maximize();
             ScrollToBottom(driver);
